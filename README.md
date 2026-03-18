@@ -11,7 +11,7 @@
 
 ### Ege Aydın · Software Engineer & AI Systems Builder
 
-*Istanbul Aydın University · 42 School · Building things that matter*
+*Istanbul Aydın University · 42 Istanbul · Building things that matter*
 
 </div>
 
@@ -20,15 +20,18 @@
 ## ◈ About
 
 ```yaml
-name: Ege Aydın
-location: Istanbul, TR
+name:     Ege Aydın
+born:     28 Jan 2005, Istanbul, Türkiye
+email:    aydin.ege90@gmail.com
+phone:    +90 538 831 9554
 education:
-  - Software Engineering @ Istanbul Aydın University (2nd year)
-  - 42 School Curriculum
+  - Software Engineering @ Istanbul Aydın University  (2023 – present)
+  - 42 Istanbul                                        (2025 – present)
 roles:
-  - System Architect @ Neuronauts AI
+  - System Architect & AI Agents @ Neuronauts AI
   - Co-Founder @ Garson AI
-focus: Healthcare AI · Voice Systems · Agentic Workflows
+focus:    Healthcare AI · Voice Systems · Agentic Workflows
+languages: Turkish (native) · English (B2)
 ```
 
 ---
@@ -44,6 +47,16 @@ focus: Healthcare AI · Voice Systems · Agentic Workflows
 
 ---
 
+## ◈ Work Experience
+
+**System Architecture & AI Agents** — *Neuronauts AI* `Jan 2026 – Present`
+> Designing scalable healthcare AI systems; market research, agentic workflow design, multidisciplinary team collaboration.
+
+**IT Intern** — *Arçelik Pazarlama* `Sep 2022 – Jun 2023`
+> Hardware support, diagnostics, technical research, cross-department IT coordination.
+
+---
+
 ## ◈ Tech Stack
 
 **Languages**
@@ -52,6 +65,7 @@ focus: Healthcare AI · Voice Systems · Agentic Workflows
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI / ML**
 
@@ -67,6 +81,7 @@ focus: Healthcare AI · Voice Systems · Agentic Workflows
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 
 **Voice & Telephony**
 
@@ -89,7 +104,7 @@ focus: Healthcare AI · Voice Systems · Agentic Workflows
 
 ---
 
-## ◈ 42 School Progress
+## ◈ 42 Istanbul Progress
 
 ```
 libft      ████████████████████  ✓
@@ -103,12 +118,20 @@ minishell  ████░░░░░░░░░░░░░░░░  📋 pl
 
 ---
 
+## ◈ Beyond the Code
+
+```
+🏃 Running   🏊 Swimming   🏓 Table Tennis
+```
+
+---
+
 ## ◈ Find Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/egeaydin)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ege@example.com)
+[![Email](https://img.shields.io/badge/aydin.ege90@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:aydin.ege90@gmail.com)
 
 *Open to collabs on AI · Healthcare Tech · Voice Systems*
 
