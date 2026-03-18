@@ -9,7 +9,7 @@
  ╚══════╝ ╚═════╝ ╚══════╝
 ```
 
-### Ege Aydın · Software Engineer & AI Systems Builder
+### Ege Aydın · System Architecture & AI Systems Builder
 
 *Istanbul Aydın University · 42 Istanbul · Building things that matter*
 
